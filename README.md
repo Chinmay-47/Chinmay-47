@@ -15,12 +15,8 @@ Here are some ideas to get you started:
 ![Chinmaya Srivatsa - Data Scientist](https://github.com/Chinmay-47/Chinmay-47/blob/main/Chinmay_display_image.png)
 
 
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%; height: 50%" />
-</div>  
-  
-
-### <div align="center">I'm Chinmay, a data scientist working full time at RubyPixels 🚀</div>  
+### <div align="center">Hi there! 👋 
+  I'm Chinmay, a data scientist working full time at RubyPixels 🚀</div>  
   
 
 - 🔭 I’m currently working on [vizml](https://github.com/Chinmay-47/vizml)  
