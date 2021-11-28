@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://github.com/Chinmay-47/Chinmay-47/blob/main/Chinmay_Github_Banner.png" alt="Chinmaya Srivatsa - Data Scientist">
+<img src="https://github.com/Chinmay-47/Chinmay-47/blob/main/Chinmay_display_image.png" alt="Chinmaya Srivatsa - Data Scientist">
 
 ### Hi there, I'm Chinmay 👋
