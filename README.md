@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I use tabs over spaces  
 
 <br>
-
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=sarah-hart-landolt&show_icons=true&theme=radical)
-![github stats](https://github-readme-stats.vercel.app/api?username=sarah-hart-landolt&show_icons=true&theme=radical)
-
 <br>
+
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=Chinmay-47&show_icons=true&theme=github_dark)
+![github stats](https://github-readme-stats.vercel.app/api?username=Chinmay-47&show_icons=true&theme=github_dark)
+
 <br>
 
 ## My Skill Set
