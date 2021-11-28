@@ -14,9 +14,26 @@ Here are some ideas to get you started:
 -->
 ![Chinmaya Srivatsa - Data Scientist](https://github.com/Chinmay-47/Chinmay-47/blob/main/Chinmay_display_image.png)
 
-### Hi there, I'm Chinmay 👋
+
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+  
+
+### <div align="center">I'm Chinmay, a data scientist working full time at RubyPixels 🚀</div>  
+  
+
+- 🔭 I’m currently working on [vizml](https://github.com/Chinmay-47/vizml)  
+  
+
+- 🌱 I’m currently learning C++ and Kubernetes
 
 
+- ❓ Ask me about anything related to Python, Data Science and related technologies  
+  
+
+- ⚡ Fun fact: I use tabs over spaces  
+  
 
 
 <br>
