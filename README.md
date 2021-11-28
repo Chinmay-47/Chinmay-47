@@ -1,5 +1,3 @@
-### Hi there, I'm Chinmay 👋
-
 <!--
 **Chinmay-47/Chinmay-47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://github.com/Chinmay-47/Chinmay-47/blob/main/Chinmay_Github_Banner.png" alt="Chinmaya Srivatsa - Data Scientist">
+
+### Hi there, I'm Chinmay 👋
