@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=Chinmay-47&show_icons=true&include_all_commits=true&&theme=github_dark)
 ![github stats](https://github-readme-stats.vercel.app/api?username=Chinmay-47&show_icons=true&include_all_commits=true&theme=github_dark)
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=Chinmay-47&show_icons=true&include_all_commits=true&layout=compact&theme=github_dark)
 
 <br>
 
@@ -64,3 +64,18 @@ Here are some ideas to get you started:
 </div>  
 
 <br>
+
+## Connect with me  
+<div align="center"><a href="https://www.linkedin.com/in/chinmaya-srivatsa-1a43641b0" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+<a href="https://github.com/Chinmay-47" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<a href="https://www.instagram.com/chinmay_srivatsa/" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+
+</div>  
+  
+
+<br/>  
