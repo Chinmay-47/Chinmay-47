@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 ![Chinmaya Srivatsa - Data Scientist](https://github.com/Chinmay-47/Chinmay-47/blob/main/Chinmay_display_image.png)
 
 
-### <div align="center">Hi there! 👋 
-  I'm Chinmay, a data scientist working full time at RubyPixels 🚀</div>  
+### <div align="center"> 👋 Hi there! I'm Chinmay, a data scientist working full time at RubyPixels 🚀</div>  
   
 
 - 🔭 I’m currently working on [vizml](https://github.com/Chinmay-47/vizml)  
@@ -29,8 +28,6 @@ Here are some ideas to get you started:
   
 
 - ⚡ Fun fact: I use tabs over spaces  
-  
-
 
 <br>
 <br>
