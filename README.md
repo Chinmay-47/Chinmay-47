@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 
 <br>
 
-### <div align="center"> 👋 Hi there! I'm Chinmay, a data scientist working full time at RubyPixels 🚀</div>  
-  
+## <div align="center"> 👋  Hi there! I'm Chinmay, a data scientist working full time at RubyPixels  🚀</div>  
 
 
 - 🔭 I’m currently working on [vizml](https://github.com/Chinmay-47/vizml)  
@@ -26,7 +25,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning C++ and Kubernetes
 
 
-- ❓ Ask me about anything related to Python, Data Science and related technologies  
+- ❓ Ask me anything about Python, Data Science and related technologies  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
