@@ -12,11 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://github.com/Chinmay-47/Chinmay-47/blob/main/Chinmay_display_image.png" alt="Chinmaya Srivatsa - Data Scientist">
+![Chinmaya Srivatsa - Data Scientist](https://github.com/Chinmay-47/Chinmay-47/blob/main/Chinmay_display_image.png)
 
 ### Hi there, I'm Chinmay 👋
 
-### Languages and Tools  
+<br>
+<br>
+
+## My Skill Set
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" />  
@@ -40,3 +43,4 @@ Here are some ideas to get you started:
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="50" /> 
 </div>  
 
+<br>
