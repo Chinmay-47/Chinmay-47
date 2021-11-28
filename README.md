@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=Chinmay-47&show_icons=true&theme=github_dark)
-![github stats](https://github-readme-stats.vercel.app/api?username=Chinmay-47&show_icons=true&theme=github_dark)
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=Chinmay-47&show_icons=true&include_all_commits=true&&theme=github_dark)
+![github stats](https://github-readme-stats.vercel.app/api?username=Chinmay-47&show_icons=true&include_all_commits=true&theme=github_dark)
 
 <br>
 
