@@ -32,6 +32,12 @@ Here are some ideas to get you started:
 
 <br>
 
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=sarah-hart-landolt&show_icons=true&theme=radical)
+![github stats](https://github-readme-stats.vercel.app/api?username=sarah-hart-landolt&show_icons=true&theme=radical)
+
+<br>
+<br>
+
 ## My Skill Set
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
