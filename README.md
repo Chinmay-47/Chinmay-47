@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=Chinmay-47&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Chinmay's github stats" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chinmay-47&layout=compact&theme=github_dark&include_all_commits=true&hide_border=true" /></a> |
+| <a href="https://github.com/Chinmay-47/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Chinmay-47&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Chinmay's github stats" /></a> | <a href="https://github.com/Chinmay-47/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chinmay-47&layout=compact&theme=github_dark&include_all_commits=true&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <br>
