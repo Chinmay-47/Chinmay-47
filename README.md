@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <br>
 
-## <div align="center"> 👋   Hi there! I'm Chinmay, a data scientist working full time at RubyPixels   🚀</div>  
+## <div align="center"> 👋   Hi there! I'm Chinmay, a Senior Data Scientist at RubyPixels   🚀</div>  
 
 
 - 🔭 I’m currently working on [vizml](https://github.com/Chinmay-47/vizml)  
