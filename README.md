@@ -16,19 +16,19 @@ Here are some ideas to get you started:
 
 <br>
 
-## <div align="center"> :wave:   Hi there! I'm Chinmay, a Senior Data Scientist at RubyPixels   🚀</div>  
+## <div align="center"> :wave:   Hi there! I'm Chinmay, a Senior Data Scientist at RubyPixels   :wave: </div>  
 
 
-- 🔭 I’m currently working on [vizml](https://github.com/Chinmay-47/vizml)  
+- :rocket: I’m currently working on [vizml](https://github.com/Chinmay-47/vizml)  
+
+
+- :book: I’m currently learning Kubernetes
+
+
+- :speech_balloon: Let's discuss Python, Data Science and related technologies  
   
 
-- 🌱 I’m currently learning C++ and Kubernetes
-
-
-- ❓ Ask me anything about Python, Data Science and related technologies  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
+- :smirk: I use tabs over spaces  
 
 <br>
 <br>
