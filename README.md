@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - :rocket: I’m currently working on [vizml](https://github.com/Chinmay-47/vizml)  
 
 
-- :book: I’m currently learning Kubernetes
+- :book: I’m currently learning [Kubernetes](https://github.com/Chinmay-47/learn-kubernetes)
 
 
 - :speech_balloon: Let's discuss Python, Data Science and related technologies  
