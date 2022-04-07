@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 ## <div align="center"> :wave:   Hi there! I'm Chinmay, a Senior Data Scientist at RubyPixels   :wave: </div>  
 
 
-- :rocket: I’m currently working on [vizml](https://github.com/Chinmay-47/vizml)  
+- :rocket: I’m currently working on [playchess](https://github.com/Chinmay-47/playchess)  
 
 
-- :book: I’m currently learning [Kubernetes](https://github.com/Chinmay-47/learn-kubernetes)
+- :book: I’m currently learning [AWS](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/)
 
 
 - :speech_balloon: Let's discuss Python, Data Science and related technologies  
