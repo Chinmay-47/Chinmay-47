@@ -19,6 +19,9 @@ Here are some ideas to get you started:
 ## <div align="center"> :wave:   Hi there! I'm Chinmay, a Graduate Student at NC State University   :wave: </div>  
 
 
+- :computer: I have 3 years of hands-on experience in Machine Learning
+
+
 - :rocket: I’m currently working on [playchess](https://github.com/Chinmay-47/playchess)  
 
 
