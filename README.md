@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <br>
 
-## <div align="center"> :wave:   Hi there! I'm Chinmay, a Senior Data Scientist at RubyPixels   :wave: </div>  
+## <div align="center"> :wave:   Hi there! I'm Chinmay, a Graduate Student at NC State University   :wave: </div>  
 
 
 - :rocket: I’m currently working on [playchess](https://github.com/Chinmay-47/playchess)  
