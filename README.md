@@ -78,7 +78,7 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/chinmay_srivatsa/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href='csrivat@ncsu.edu' target="_blank"><img alt=gmail src='https://img.shields.io/badge/Gmail-100000?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=black&color=black' style="margin-bottom: 5px;"/>
+<a href="csrivat@ncsu.edu" target="_blank"><img alt=gmail src='https://img.shields.io/badge/Gmail-100000?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=black&color=black' style="margin-bottom: 5px;"/>
 </a>
 
 </div>  
