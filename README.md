@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 
 
 - :book: I’m currently learning : 
-      - [Detection and Estimation](https://www.engineeringonline.ncsu.edu/course/ece-751-detection-and-estimation-theory-2/)
-      - [Metaheuristics for Search and Optimization](https://www.csc.ncsu.edu/people/sheber)
+      -> [Detection and Estimation](https://www.engineeringonline.ncsu.edu/course/ece-751-detection-and-estimation-theory-2/)
+      -> [Metaheuristics for Search and Optimization](https://www.csc.ncsu.edu/people/sheber)
 
 
 - :speech_balloon: Let's discuss Python, Data Science and related technologies  
