@@ -22,10 +22,12 @@ Here are some ideas to get you started:
 - :computer: I have over 4 years of Machine Learning experience both in the industry and in academia
 
 
-- :rocket: I’m currently working on [playchess](https://github.com/Chinmay-47/playchess)  
+- :rocket: I’m currently working on [GABONST for solving TSP](https://github.com/Chinmay-47/GABONST-and-TSP)  
 
 
-- :book: I’m currently learning [AWS](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/)
+- :book: I’m currently learning : 
+      - [Detection and Estimation](https://www.engineeringonline.ncsu.edu/course/ece-751-detection-and-estimation-theory-2/)
+      - [Metaheuristics for Search and Optimization](https://www.csc.ncsu.edu/people/sheber)
 
 
 - :speech_balloon: Let's discuss Python, Data Science and related technologies  
