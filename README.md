@@ -21,14 +21,12 @@ Here are some ideas to get you started:
 
 - :computer: I have over 4 years of Machine Learning experience both in the industry and in academia
 
-
+<!--
 - :rocket: I’m currently working on [GABONST for solving TSP](https://github.com/Chinmay-47/GABONST-and-TSP)  
+-->
 
-
-- :book: I’m currently learning : 
-      -> [Detection and Estimation](https://www.engineeringonline.ncsu.edu/course/ece-751-detection-and-estimation-theory-2/)
-      -> [Metaheuristics for Search and Optimization](https://www.csc.ncsu.edu/people/sheber)
-
+- :book: I’m currently taking : 
+      -> [Computer Vision](https://wolfware.ncsu.edu/courses/details/?sis_id=SIS:2024:1:1:ECE:763:001)
 
 - :speech_balloon: Let's discuss Python, Data Science and related technologies  
   
@@ -38,8 +36,13 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-| <a href="https://github.com/Chinmay-47/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Chinmay-47&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true&hide=issues,contribs&count_private=true" alt="Chinmay's github stats" /></a> | <a href="https://github.com/Chinmay-47/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chinmay-47&layout=compact&theme=github_dark&include_all_commits=true&hide_border=true" /></a> |
+<!--
+| <a href="https://github.com/Chinmay-47/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Chinmay-47&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true&hide=issues,contribs&count_private=true" alt="Chinmay's github stats" /></a> | 
 | ------------- | ------------- |
+-->
+<a href="https://github.com/Chinmay-47/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chinmay-47&layout=compact&theme=github_dark&include_all_commits=true&hide_border=true" /></a>
+
+
 
 <br>
 
