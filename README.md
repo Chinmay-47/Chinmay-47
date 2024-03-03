@@ -11,8 +11,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 ![Chinmaya Srivatsa - Data Scientist](https://github.com/Chinmay-47/Chinmay-47/blob/main/Chinmay_display_image.png)
+-->
 
 <br>
 
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - :book: I’m currently taking : 
       -> [Computer Vision](https://wolfware.ncsu.edu/courses/details/?sis_id=SIS:2024:1:1:ECE:763:001)
 
-- :speech_balloon: Let's discuss Python, Data Science and related technologies  
+- :speech_balloon: Let's discuss Python, Machine Learning, Data Science and related technologies  
   
 
 - :smirk: I use tabs over spaces  
