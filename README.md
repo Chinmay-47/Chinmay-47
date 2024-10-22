@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ## <div align="center"> :wave:   Hi there! I'm Chinmay, an alumni of NC State University   :wave: </div>  
 
 
-- :computer: I have over 4 years of Machine Learning experience both in the industry and in academia
+- :computer: I have over 3 years of Machine Learning experience both in the industry and in academia
 
 <!--
 - :rocket: I’m currently working on [GABONST for solving TSP](https://github.com/Chinmay-47/GABONST-and-TSP)  
