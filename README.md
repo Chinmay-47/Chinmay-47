@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <br>
 
-## <div align="center"> :wave:   Hi there! I'm Chinmay, a Graduate Student at NC State University   :wave: </div>  
+## <div align="center"> :wave:   Hi there! I'm Chinmay, an alumni of NC State University   :wave: </div>  
 
 
 - :computer: I have over 4 years of Machine Learning experience both in the industry and in academia
@@ -25,8 +25,7 @@ Here are some ideas to get you started:
 - :rocket: I’m currently working on [GABONST for solving TSP](https://github.com/Chinmay-47/GABONST-and-TSP)  
 -->
 
-- :book: I’m currently taking : 
-      -> [Computer Vision](https://wolfware.ncsu.edu/courses/details/?sis_id=SIS:2024:1:1:ECE:763:001)
+- :book: Here's a link to my resume : [Resume](https://github.com/user-attachments/files/17469679/Resume_Chinmaya_Srivatsa.pdf)
 
 - :speech_balloon: Let's discuss Python, Machine Learning, Data Science and related technologies  
   
